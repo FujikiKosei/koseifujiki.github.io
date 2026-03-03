@@ -241,6 +241,12 @@ defaults:
     values:
       sitemap: false
 
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
 sass:
   style: compressed
 
