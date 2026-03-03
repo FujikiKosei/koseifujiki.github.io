@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+title: Research Information
+first_name: Kosei
+middle_name: blank
+last_name: Fujiki
+affiliation: Yukawa Institute for Theoretical Physics (YITP)
+contact_note: > email: kosei.fujiki@yukawa.kyoto-u.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
